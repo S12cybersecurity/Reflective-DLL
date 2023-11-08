@@ -1,0 +1,4 @@
+﻿  Reflector-DLL.cpp
+S:\MalwareDeveloped\Reflective-DLL\Reflector-DLL\Reflector-DLL\Reflector-DLL.cpp(26,26): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+S:\MalwareDeveloped\Reflective-DLL\Reflector-DLL\Reflector-DLL\Reflector-DLL.cpp(91,17): warning C4312: 'type cast': conversion from '__unaligned DWORD' to 'LPCSTR' of greater size
+  Reflector-DLL.vcxproj -> S:\MalwareDeveloped\Reflective-DLL\Reflector-DLL\x64\Debug\Reflector-DLL.exe
