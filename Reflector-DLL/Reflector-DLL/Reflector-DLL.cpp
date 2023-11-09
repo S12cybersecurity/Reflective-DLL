@@ -1,3 +1,7 @@
+/*
+   Code from https://www.ired.team/offensive-security/code-injection-process-injection/reflective-dll-injection
+*/
+
 #include <iostream>
 #include <Windows.h>
 
